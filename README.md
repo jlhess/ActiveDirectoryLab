@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-I made a basic Active Directory home lab using Virtual Box. I configured Server 2019 as a domain controller, used a PowerShell script to bulk create/add user accounts, and connected a Windows 10 machine to the domain.
+A basic Active Directory home lab using Virtual Box. I configured Server 2019 as a domain controller, used a PowerShell script to bulk create/add user accounts, and connected a Windows 10 machine to the domain.
 <br />
 
 
